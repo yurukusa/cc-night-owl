@@ -60,7 +60,7 @@ No install, no upload. Everything runs locally in your browser.
 
 ## Part of cc-toolkit
 
-cc-night-owl is part of [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 45 free tools for Claude Code users.
+cc-night-owl is part of [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 48 free tools for Claude Code users.
 
 ---
 
