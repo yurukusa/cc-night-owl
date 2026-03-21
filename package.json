@@ -9,10 +9,18 @@
   "scripts": {
     "start": "node cli.mjs"
   },
-  "keywords": ["claude", "claude-code", "ai", "productivity", "analytics", "cli"],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "productivity",
+    "analytics",
+    "cli"
+  ],
   "author": "yurukusa",
   "license": "MIT",
   "engines": {
     "node": ">=18"
-  }
+  },
+  "homepage": "https://github.com/yurukusa/cc-night-owl#readme"
 }
